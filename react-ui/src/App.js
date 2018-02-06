@@ -42,7 +42,7 @@ class App extends Component {
         <p className="App-intro">
           {'This is '}
           <a href="https://github.com/mars/heroku-cra-node">
-            {'create-react-app with a custom Node/Express server'}
+            {'tester'}
           </a><br/>
         </p>
         <p className="App-intro">
